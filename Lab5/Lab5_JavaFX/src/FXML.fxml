@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" fx:id="submitButton" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+   <children>
+      <Label fx:id="titleLabel" layoutX="250.0" layoutY="14.0" text="Registration Form" />
+      <Label fx:id="nameLabel" layoutX="213.0" layoutY="91.0" text="Name:" />
+      <TextField fx:id="nameTextField" layoutX="271.0" layoutY="87.0" />
+      <Button layoutX="272.0" layoutY="294.0" mnemonicParsing="false" onAction="#submit" text="Submit" />
+   </children>
+</AnchorPane>
