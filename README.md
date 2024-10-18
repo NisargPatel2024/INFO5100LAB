@@ -6,4 +6,4 @@
  <br>
  <a href="https://github.com/NisargPatel2024/INFO5100LAB/tree/main/Lab3/Lab3NavigationAssignment">Lab 3 & 4 - Navigation flow in Java Swing: Assignment 3</a>
  <br>
- <a href="https://github.com/NisargPatel2024/INFO5100LAB/tree/main/Lab3/Lab3NavigationAssignment">Lab 5 - JavaFX and MVC Pattern: Assignment 5 </a>
+ <a href="https://github.com/NisargPatel2024/INFO5100LAB/tree/main/Lab5">Lab 5 - JavaFX and MVC Pattern: Assignment 5 </a>
