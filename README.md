@@ -1,9 +1,9 @@
 ﻿# INFO5100LAB
 
- Assignment 1
+ <a href="https://github.com/NisargPatel2024/INFO5100LAB/tree/main/Lab1/HelloWorldS">Assignment 1</a>
  <br>
- Assignment 2
+ <a href="https://github.com/NisargPatel2024/INFO5100LAB/tree/main/Lab2/Lab2TaskAssignment">Assignment 2</a>
  <br>
- Assignment 3
+ <a href="https://github.com/NisargPatel2024/INFO5100LAB/tree/main/Lab3/Lab3NavigationAssignment"> Assignment 3 </a>
  <br>
- Assignment 4
+ <a href="https://github.com/NisargPatel2024/INFO5100LAB/tree/main/Lab3/Lab3NavigationAssignment"> Assignment 5 </a>
