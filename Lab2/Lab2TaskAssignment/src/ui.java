@@ -326,7 +326,7 @@ public class ui extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(this, errorMessage);
 
         } catch (NumberFormatException nfe) {
-            String errorMessage = "Enter a valid input in number field";
+            String errorMessage = "Enter a valid input in age field";
             System.out.println(nfe);
             JOptionPane.showMessageDialog(this, errorMessage);
         } catch (HeadlessException e) {
